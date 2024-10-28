@@ -1,37 +1,36 @@
 # Change to your own name
-site_name: My Research Page
+site_name: Amelia Greathouse
 # Change to your own site
-site_url: https://steob92.github.io/mcgill-tutorial/ # must have the trailing slash
-site_author: Your Name (stephan.obrien@mcgill.ca)
-site_description: Research site for Your Name 
+site_url: https://amelia-greathouse.github.io/ # must have the trailing slash
+site_author: Amelia Greathouse (amelia.greathouse@mail.mcgill.ca)
+site_description: Research site for Amelia Greathouse 
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Your Name <br>
+  &copy; 2024 Amelia Greathouse <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
 
-
 theme:
-    name: material
-    palette:
-      # Palette toggle for light mode
-      - scheme: default
-        # Color of the top bar
-        primary: deep purple
-        # Link highlight color
-        accent : orange
-        
-        toggle:
-          icon: material/brightness-7 
-          name: Switch to dark mode
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      # Color of the top bar
+      primary: deep purple
+      # Link highlight color
+      accent : orange
+      
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
 
-      # Palette toggle for dark mode
-      - scheme: slate
-        toggle:
-          icon: material/brightness-4
-          name: Switch to light mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
-    features:
+  features:
     - navigation.instant # some features may not work properly with XHR
     - navigation.tracking # the URL changes with the active anchor
     - navigation.tabs # first top-level sections are shown as tabs
@@ -69,8 +68,8 @@ markdown_extensions:
 
 # Additional plugins
 plugins:
-    - search
-    # Using jupyter notebook  
-    - mkdocs-jupyter:
-          theme: default
+  - search
+  # Using jupyter notebook  
+  - mkdocs-jupyter:
+      theme: default
 
