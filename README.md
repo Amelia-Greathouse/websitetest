@@ -14,7 +14,7 @@ get peer to review page
 ## To Save Changes
 ```
 git add -A
-git commit -m
+git commit -m "commit message"
 git push
 ```
 
@@ -24,7 +24,7 @@ mkdocs gh-deploy
 ```
 
 
-# Usefull Commands
+# Useful Commands
 
 ## To see Website Locally
 ```
@@ -39,7 +39,7 @@ mkdocs serve
 ### in docs folder -> create new folder -> create new file in new folder titled index.md
 
 
-# Usefull links
+# Useful links
 
 ## Get a github webpage started
 ```
