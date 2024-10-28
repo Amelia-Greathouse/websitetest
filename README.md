@@ -1,27 +1,27 @@
 # To Do
 
-## fix about me section (use a personal statement or something, headshot, )
-## Update cv (mcgill edu and take out phone number)
-## research page (abstract from thesis, poster pics, publication)
-## clear project page (?)
-## outreach (astrocamp?)
-## change color scheme (?)
-## get peer to review page
+    ## fix about me section (use a personal statement or something, headshot, )
+    ## Update cv (mcgill edu and take out phone number)
+    ## research page (abstract from thesis, poster pics, publication)
+    ## clear project page (?)
+    ## outreach (astrocamp?)
+    ## change color scheme (?)
+    ## get peer to review page
 
 
 # How to get Public Website up
 
-## To Save Changes
-```
-git add -A
-git commit -m "commit message"
-git push
-```
+    ## To Save Changes
+    ```
+    git add -A
+    git commit -m "commit message"
+    git push
+    ```
 
-## To Deploy Website
-```
-mkdocs gh-deploy
-```
+    ## To Deploy Website
+    ```
+    mkdocs gh-deploy
+    ```
 
 
 # Useful Commands
