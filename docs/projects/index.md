@@ -2,5 +2,6 @@
 
 Here are some projects that I am working on. 
 
-- [Python Project](./python_project/python_project.ipynb) is an amazing python project that will allow you to see my coding skills.
-- [Data Project](./data_project/index.md) is an even more amazing project where I share data that I've used.
+I'm crocheting a cow that will one day look like this:
+
+![cow](/media/naska-cow.webp "cow"){style="height:405px;width:324px"}

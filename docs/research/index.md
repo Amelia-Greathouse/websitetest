@@ -1,10 +1,9 @@
 # Research Interests
-
-Here is a paragraph explaining my research interests, the telescopes that I'm involved in or which I use. 
-
+ 
+ My research interests lie in the captivating realm of hands-on, experimental nuclear and particle physics, where I can delve into the fundamental aspects of the universe through immersive exploration and observation.
 
 ## Recent Highlights
- - [Awesome Paper](./highlights/awesome_paper/index.md)
- - [Multiwavelength Paper](./highlights/large_mwl_paper/index.md)
+ - [Undergraduate Thesis](./highlights/undergraduate/index.md)
+ - [Poster](./highlights/poster/index.md)
 
 A full list of publications can be found [here](./all_publications.md).
