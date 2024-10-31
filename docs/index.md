@@ -1,8 +1,8 @@
 # Welcome to My Research Page
 
-My name ia Amelia Greathouse and I am currently purinsg my Master's Degree at Mcgill University.
+My name ia Amelia Greathouse and I am currently pursuing my Master's Degree at Mcgill University.
 
-(insert linkedin etc. when profiles are made)
+(PLACEHOLDER: insert linkedin etc. when profiles are made)
 
 I don't have a professional headshot yet, so meet Enzo.
 
