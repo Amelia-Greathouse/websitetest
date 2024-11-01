@@ -64,7 +64,7 @@ nav:
 markdown_extensions:
   - attr_list   # For adding attributes such as right/left align to images
   - md_in_html  # Using Figures
-
+  - footnotes   # For Bibtex
 
 
 # Additional plugins
@@ -73,4 +73,7 @@ plugins:
   # Using jupyter notebook  
   - mkdocs-jupyter:
       theme: default
+  # Using Bibtex Citations
+  - bibtex:
+      bib_file: "docs/cite.bib"
 
