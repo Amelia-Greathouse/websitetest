@@ -1,8 +1,3 @@
-# To Do
-
-## change color scheme (?)
-## get peer to review page
-
 
 # How to get Public Website up
 
